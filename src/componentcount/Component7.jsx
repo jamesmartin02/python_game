@@ -77,7 +77,7 @@ print(rectangle.draw())  # Output: Drawing a blue rectangle with width 3 and hei
     <>
     <Maincom  title={"Inheritance"}
   game={"https://dineshdiv.github.io/clsloading-clspath/"}
-  url={'https://videoconsole-lac.vercel.app/'}
+  url={'https://videoconsole-lac.vercel.app/?url=https://videos.sproutvideo.com/embed/d390d5b7191be7c25a/ee7a31474bba1545'}
     steps={['Inheritance is a fundamental concept in object-oriented programming (OOP) where a new class, known as a subclass or derived class, can inherit attributes and methods from an existing class, known as a superclass or base class. This allows for code reuse and facilitates the creation of hierarchical relationships between classes.',
     'Base Class Definition:',
     'Here, we define a base class Shape with an __init__() method to initialize the color of the shape and a draw() method, left unimplemented (using pass), as its specific behavior will be defined in subclasses. This represents the common attributes and behaviors shared by all shapes.',

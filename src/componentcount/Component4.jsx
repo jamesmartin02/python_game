@@ -59,7 +59,7 @@ print(acc.get_balance())  # Output: 500
     <Maincom  title={"Encapsulation"}
     answer={answer}
     game={"https://html-classic.itch.zone/html/1970387/index.html?v=1582568685"}
-    url={'https://videoconsole-lac.vercel.app/'}
+    url={'https://videoconsole-lac.vercel.app/?url=https://videos.sproutvideo.com/embed/1190d5b7191ae1cf98/06778cc020a898c3'}
        steps={['Encapsulation is the bundling of data (attributes) and methods (functions) that operate on the data into a single unit, called a class. It allows for data hiding, where the internal workings of a class are hidden from the outside world, and abstraction, where only essential details are exposed to the user',
        'In this example:', 
        'balance is encapsulated within the BankAccount class. Users interact with the class through defined methods (deposit, withdraw, get_balance), maintaining data integrity and hiding the internal representation of the balance. Encapsulation ensures that the balance can only be modified through predefined methods, preventing direct access and potential misuse.',

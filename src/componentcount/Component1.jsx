@@ -45,7 +45,7 @@ export const Component1 = () => {
       <Maincom
 
         game={'https://gunaasin.github.io/intentation/'}
-        url={'https://videoconsole-lac.vercel.app/?url=https://www.youtube.com/embed/iyLqwyFL0Zc'}
+        url={'https://videoconsole-lac.vercel.app/?url=https://videos.sproutvideo.com/embed/7990d5b7191ae6c0f0/0913519894859161'}
         
        
         steps={[

@@ -89,7 +89,7 @@ print(snake.move())       # Output: Snake is slithering.
 
       <Maincom title={"Abstraction"}
 game={"https://html-classic.itch.zone/html/1796316/index.html?v=1577643881"}
-url={'https://videoconsole-lac.vercel.app/'}
+url={'https://videoconsole-lac.vercel.app/?url=https://videos.sproutvideo.com/embed/d390d5b7191be7c25a/ee7a31474bba1545'}
         steps={['Abstraction in Python works by creating classes that represent abstract concepts or entities, hiding the implementation details while providing a clear interface for interacting with them. Lets break this down with an understandable example',
      'Imagine you re building a zoo management system in Python. In a zoo, you have various animals with different characteristics and behaviors. To abstract this concept, you can create a general Animal class representing common attributes and actions shared by all animals. Then, you can create specific animal classes that inherit from the Animal class and provide their own implementations for unique characteristics and behavior',
      'How Abstraction Works in This Example:',

@@ -74,7 +74,7 @@ my_frozen_set.add(4)
     <>
     <Maincom  title={"Immutable Objects"}
     game={"https://jamesmartin02.github.io/gameio/"}
-    url={'https://videoconsole-lac.vercel.app/'}
+    url={'https://videoconsole-lac.vercel.app/?url=https://videos.sproutvideo.com/embed/0690d5b7191ae6c38f/0615462a0f2694c1'}
      steps={['Immutable objects :',
      'Tuples are immutable sequences of elements. Once a tuple is created, its elements cannot be changed, added, or removed. While individual elements of a tuple can be accessed using indexing, any attempt to modify them will result in an error.',
      'Strings are immutable sequences of characters. Once a string is created, its characters cannot be modified. While individual characters of a string can be accessed using indexing, any attempt to modify them will result in an error.',
